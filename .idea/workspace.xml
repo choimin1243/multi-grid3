@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="085d3b2b-2b96-4388-8d17-b078b8338cc5" name="Default Changelist" comment="" />
+    <list default="true" id="085d3b2b-2b96-4388-8d17-b078b8338cc5" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +42,45 @@
       <option name="presentableId" value="Default" />
       <updated>1591879989228</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1591883123691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591883123691</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="312" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="472" y="432" key="Github.ShareDialog" timestamp="1591880089676">
+    <state x="472" y="432" key="Github.ShareDialog" timestamp="1591883091287">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="472" y="432" key="Github.ShareDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1591880089676" />
-    <state x="387" y="234" key="Github.UntrackedFilesDialog" timestamp="1591880152064">
+    <state x="472" y="432" key="Github.ShareDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1591883091287" />
+    <state x="387" y="234" key="Github.UntrackedFilesDialog" timestamp="1591883095559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="387" y="234" key="Github.UntrackedFilesDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1591880152064" />
+    <state x="387" y="234" key="Github.UntrackedFilesDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1591883095559" />
+    <state x="316" y="183" key="git4idea.merge.GitPullDialog" timestamp="1591883369631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="316" y="183" key="git4idea.merge.GitPullDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1591883369631" />
   </component>
 </project>
